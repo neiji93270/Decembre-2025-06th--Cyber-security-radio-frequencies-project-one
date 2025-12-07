@@ -1,0 +1,30 @@
+
+
+class squaredatabase
+{
+private:
+
+  std::string squareGroupsSampleForLaterSampling="..."; //we need an AND operator on surfaces curves that differ from wave curves at first. Then thousands tables could be used.
+                                                      //but in this database, we eed annoted Groth topologies. Then, we can turn around with 10 values in tables.
+                                                      //So, ten values are enough and could be linked with tousand devices signals. So, we can transfer the network.
+  double tableValueOne=
+  double tableValueTwo=
+  double tableValueThree=
+  ...
+  double tableValueTen=
+
+}
+
+
+
+  //in order to transfer and check the network, we need reccurent processes at  inner abelian groups
+  //of lattices or motives that differs from our previous ten samples. So we can use the AND operator
+  //to check annoted tables. So we have another database !
+class DatabaseOfPerformance
+{
+
+
+}
+
+
+
